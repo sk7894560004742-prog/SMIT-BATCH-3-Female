@@ -6,7 +6,6 @@
 // read
 // update
 // delete []
-
 const input = document.querySelector("#input");
 const ol = document.querySelector("ol");
 const allTodos = [];
